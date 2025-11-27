@@ -119,3 +119,4 @@ if 'last_result' in st.session_state:
 st.write(" ")
 st.write("Info: Questions you answer incorrectly will appear more often (spaced repetition).")
 
+ 
