@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.venv
+env/
+progress.json
+temp_uploaded.xlsx
+.DS_Store
